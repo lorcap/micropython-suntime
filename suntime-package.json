@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["suntime/__init__.py", "suntime/__init__.py"],
+    ["suntime/suntime.py", "suntime/suntime.py"]
+  ],
+  "version": "1.0.0"
+}

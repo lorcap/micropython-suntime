@@ -1,0 +1,11 @@
+{
+  "urls": [
+    ["suntime/__init__.py", "suntime/__init__.py"],
+    ["suntime/sundatetime.py", "suntime/sundatetime.py"]
+    ["suntime/suntime.py", "suntime/suntime.py"]
+  ],
+  "deps": [
+    ["datetime", "latest"],
+  ],
+  "version": "1.0.0"
+}
